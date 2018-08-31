@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+}
+form {
+	text-align: left;
+    display: inline-block;
+    padding: 10px 10px 30px 10px;
+}
+input {
+	padding: 5px;
+	margin: 5px 5px 5px 0px;
+}
+
+table {
+	margin: auto;
+}
+.menu {
+	text-align: left;
+}
+
+table, th, td {
+   border: 1px solid black;
+}
+
+td {
+	padding: 5px;
+}
